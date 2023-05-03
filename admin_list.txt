@@ -1,0 +1,14 @@
+32, Blade, Razer, $2000.0, i7 7th Gen, GTX 3060
+6, XPS, Dell, $1975.0, i5 9th Gen, GTX 3070
+10, Swift 7, Acer, $900.0, i5 9th Gen, GTX 3070
+2, Macbook Pro 16, Apple, $3500.0, i5 9th Gen, GTX 3070
+12, Helios 300, Acer, $1200.0, i5 10th Gen, RTX 3060
+14, Legion 5 PRO, Lenovo , $1269.0, i5 11th Gen, RTX 3060
+19, TUF Dash F15, Asus, $999.0, i7 11th Gen, RTX 3070
+18, GP76 Leopard, MSI, $1699.0, i5 11th Gen, RTX 3050ti
+6, Alienware M15, Dell, $2400.0, i7 10th Gen, RTX 3060
+8, Nitro 5, Acer, $799.0, i7 10th Gen, RTX 3060
+12, Victus 16, HP, $1370.0, i5 11th Gen, RTX 3070
+17, Dell G3, Dell, $1345.0, i5 9th Gen, RTX 3060
+31, ROG, Asus, $1349.0, i7 11th Gen, RTX 2080
+12, Pulse, MSI, $1240.0, i5 11th Gen, RTX 3050

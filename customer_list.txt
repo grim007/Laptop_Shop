@@ -1,0 +1,16 @@
+||1.) Product Name= Razer Blade          || Brand= Razer  || Specifications= i7 7th Gen, GTX 3060    || Price= $2000 ||
+||2.) Product Name= XPS                  || Brand= Dell   || Specifications= i5 9th Gen, GTX 3070    || Price= $1975 ||
+||3.) Product Name= Swift 7              || Brand= Acer   || Specifications= i5 9th Gen, GTX 3070    || Price=$900   ||
+||4.) Product Name= Macbook Pro 16       || Brand= Apple  || Specifications= i5 9th Gen, GTX 3070    || Price=$3500  ||
+||5.) Product Name= Helios 300           || Brand= Acer   || Specifications= i5 10th Gen, RTX 3060   || Price= $1200 ||
+||6.) Product Name= Lenovo Legion 5 PRO  || Brand= Lenovo || Specifications= i5 11th Gen,RTX 3060    || Price= $1100 ||
+||7.) Product Name= Asus TUF Dash F15    || Brand= Asus   || Specifications= i7 11th Gen, RTX 3070   || Price= $999  ||
+||8.) Product Name= GP76 Leopard         || Brand= MSI    || Specifications= i5 11th Gen, RTX 3050ti || Price= $1699 ||
+||9.) Product Name= Alienware M15        || Brand= Dell   || Specifications= i7 10th Gen, RTX 3060   || Price= $2400 ||
+||10.) Product Name= Nitro 5             || Brand= Acer   || Specifications= i7 10th Gen, RTX 3060   || Price= $799  ||
+||11.) Product Name= Victus 16           || Brand= HP     || Specifications= i5 11th Gen, RTX 3070   || Price= $1370 || 
+||12.) Product Name= Dell G3             || Brand= Dell   || Specifications= i5 9th Gen, RTX 3060    || Price= $1345 ||
+||13.) Product Name= ROG                 || Brand= Asus   || Specifications= i7 11th Gen, RTX 2080   || Price= $1349 ||
+||14.) Product Name= Pulse               || Brand= MSI    || Specifications= i5 11th Gen, RTX 3050   || Price= $1240 ||
+
+
